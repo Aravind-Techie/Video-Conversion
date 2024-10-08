@@ -18,8 +18,8 @@ This project provides a solution for converting horizontal (16:9) videos into ve
 ## Installation
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
-   cd your-repository
+   git clone https://github.com/Aravind-Techie/Video-Conversion.git
+   cd Video-Conversion
 
 2. **Install Dependencies**
    ```bash
